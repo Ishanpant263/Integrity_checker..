@@ -1,0 +1,5 @@
+System Integrity Report
+=======================
+
+This is a dummy report file created for testing the file integrity checker.
+If this file is modified, the script should detect it.
